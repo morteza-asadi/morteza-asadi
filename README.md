@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, I'm Morteza 👋
+
+## About Me
+I am a Tech Lead and Senior Software Engineer with experience in building robust and scalable applications. I specialize in C#, .NET Core, and Microservices architecture.
 
 <!--
 **morteza-asadi/morteza-asadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
