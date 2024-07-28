@@ -6,6 +6,7 @@ I'm a Software Engineer with experience in building robust and scalable applicat
 - Website: [Website](https://www.morteza-asadi.com)
 - LinkedIn: [morteza-asadi](https://www.linkedin.com/in/morteza-asadi/)
 - Twitter: [@M0rtezaAsadi](https://x.com/M0rtezaAsadi)
+- Stackoverflow: [morteza-asadi](https://stackoverflow.com/users/2233017/morteza-asadi)
 
 <!--
 ## About Me
