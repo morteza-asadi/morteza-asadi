@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 
 <div  align="center">
-  </br>
-<img src="https://github-readme-stats.vercel.app/api?username=morteza-asadi&show_icons=true&count_private=true" alt="Morteza"/>
-<img src="https://streak-stats.demolab.com?user=morteza-asadi&theme=catppuccin-latte" alt="GitHub Morteza" />
- </br>
-   </br>
+</br>
+</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-asadi&layout=compact&count_private=true" alt="morteza"/>
-
-
-
+</br>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=morteza-asadi&show_icons=true&count_private=true" alt="Morteza"/>
+</br>
+</br>
+<img src="https://streak-stats.demolab.com?user=morteza-asadi&theme=catppuccin-latte" alt="GitHub Morteza" />
 </div>
 
