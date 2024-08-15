@@ -8,7 +8,6 @@ I'm a Software Engineer with experience in building robust and scalable applicat
 - Twitter: [@M0rtezaAsadi](https://x.com/M0rtezaAsadi)
 - Stackoverflow: [morteza-asadi](https://stackoverflow.com/users/2233017/morteza-asadi)
 
-
 <div align="center">
 </br>
 </br>
