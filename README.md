@@ -11,7 +11,7 @@ I'm a Software Engineer with experience in building robust and scalable applicat
 <div align="center">
 </br>
 </br>
-<img src="https://github-profile-trophy.vercel.app/?username=morteza-asadi&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://komarev.com/ghpvc/?username=morteza-asadi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </br>
 </br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morteza-asadi&theme=default" alt="GitHub Profile Summary"/>
@@ -21,6 +21,6 @@ I'm a Software Engineer with experience in building robust and scalable applicat
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morteza-asadi&theme=default" alt="GitHub Stats"/>
 </br>
 </br>
-<img src="https://streak-stats.demolab.com?user=morteza-asadi&theme=catppuccin-latte" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=morteza-asadi&theme=default" alt="GitHub Streak"/>
 </div>
 
