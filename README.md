@@ -11,12 +11,16 @@ I'm a Software Engineer with experience in building robust and scalable applicat
 <div align="center">
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-asadi&layout=compact" alt="morteza"/>
+<img src="https://github-profile-trophy.vercel.app/?username=morteza-asadi&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=morteza-asadi&show_icons=true" alt="Morteza"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morteza-asadi&theme=default" alt="GitHub Profile Summary"/>
 </br>
 </br>
-<img src="https://streak-stats.demolab.com?user=morteza-asadi&theme=catppuccin-latte" alt="GitHub Morteza" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morteza-asadi&theme=default" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morteza-asadi&theme=default" alt="GitHub Stats"/>
+</br>
+</br>
+<img src="https://streak-stats.demolab.com?user=morteza-asadi&theme=catppuccin-latte" alt="GitHub Streak" />
 </div>
 
