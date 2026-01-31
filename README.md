@@ -11,10 +11,10 @@ I'm a Software Engineer with experience in building robust and scalable applicat
 <div align="center">
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-asadi&layout=compact&count_private=true" alt="morteza"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morteza-asadi&layout=compact" alt="morteza"/>
 </br>
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=morteza-asadi&show_icons=true&count_private=true" alt="Morteza"/>
+<img src="https://github-readme-stats.vercel.app/api?username=morteza-asadi&show_icons=true" alt="Morteza"/>
 </br>
 </br>
 <img src="https://streak-stats.demolab.com?user=morteza-asadi&theme=catppuccin-latte" alt="GitHub Morteza" />
